@@ -9,9 +9,7 @@
  */
 
 //const BaseURL = "https://jmartel.webdev.cmaisonneuve.qc.ca/n61/vino/";
-
-
-
+// Modification pour voir 
 
 const BaseURL = document.baseURI;
 console.log(BaseURL);
